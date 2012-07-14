@@ -161,3 +161,7 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+/Source\KinectUnityPlugin/ipch
+/Source\KinectUnityPlugin/Debug
+/Source\WPFKinectUnityPluginTest/obj
+/Source\WPFKinectUnityPluginTest/bin
