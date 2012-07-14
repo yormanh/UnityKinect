@@ -1,0 +1,13 @@
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\bin\Debug\WPFKinectUnityPluginTest.exe
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\bin\Debug\WPFKinectUnityPluginTest.pdb
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\MainWindow.baml
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\MainWindow.g.cs
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\App.g.cs
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\WPFKinectUnityPluginTest_MarkupCompile.cache
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\WPFKinectUnityPluginTest.g.resources
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\WPFKinectUnityPluginTest.Properties.Resources.resources
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\WPFKinectUnityPluginTest.exe
+F:\Ficheros\MyUnityKinectEjemplo\Source\WPFKinectUnityPluginTest\obj\x86\Debug\WPFKinectUnityPluginTest.pdb

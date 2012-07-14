@@ -1,0 +1,40 @@
+﻿Compilación iniciada a las 13/07/2012 19:45:54.
+     1>Proyecto "F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\KinectUnityPlugin.vcxproj" en el nodo 2 (rebuild destinos).
+     1>_PrepareForClean:
+         Se eliminará el archivo "Debug\KinectUnityPlugin.lastbuildstate".
+       InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\KinectUnityPlugin.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D KINECTUNITYPLUGIN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\KinectUnityPlugin.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D KINECTUNITYPLUGIN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D KINECTUNITYPLUGIN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\KinectUnityPlugin.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt KinectUnityPlugin.cpp
+         KinectUnityPlugin.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\KinectUnityPlugin.dll.embed.manifest.res" Debug\KinectUnityPlugin_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\KinectUnityPlugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.lib" /MACHINE:X86 /DLL Debug\KinectUnityPlugin.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\KinectUnityPlugin.obj
+         Debug\stdafx.obj
+            Creando biblioteca F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.lib y objeto F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.exp
+       Manifest:
+         Se eliminará el archivo "Debug\KinectUnityPlugin.dll.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\KinectUnityPlugin.dll.embed.manifest" /manifest Debug\KinectUnityPlugin.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\KinectUnityPlugin.dll.embed.manifest.res" Debug\KinectUnityPlugin_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\KinectUnityPlugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.lib" /MACHINE:X86 /DLL Debug\KinectUnityPlugin.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\KinectUnityPlugin.obj
+         Debug\stdafx.obj
+            Creando biblioteca F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.lib y objeto F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.exp
+         KinectUnityPlugin.vcxproj -> F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\Debug\KinectUnityPlugin.dll
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\KinectUnityPlugin.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\KinectUnityPlugin.lastbuildstate".
+     1>Compilación del proyecto terminada "F:\Ficheros\MyUnityKinectEjemplo\Source\KinectUnityPlugin\KinectUnityPlugin.vcxproj" (rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.37
